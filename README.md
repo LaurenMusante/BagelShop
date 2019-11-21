@@ -10,7 +10,7 @@ _This is an MVC application set up to interact with the Bagel API we created in 
 
 ## Setup/Installation Requirements
 
-_Clone [this repository]https://github.com/LaurenMusante/BagelShop] to your desktop. Navigate to the root directory in your terminal. Then navigate to the project folder and run "dotnet ef database update". Then run "dotnet run" in the terminal. Navigate to http://localhost5000/ in your browser to explore the webpage._
+_Clone [this repository]https://github.com/LaurenMusante/BagelShop to your desktop. Navigate to the root directory in your terminal. Then navigate to the project folder and run "dotnet ef database update". Then run "dotnet run" in the terminal. Navigate to http://localhost5000/ in your browser to explore the webpage._
 
 ## Known Bugs
 
